@@ -1,0 +1,16 @@
+{
+  "name": "pca9685",
+  "version": "0.0.1",
+  "description": "PCA9685 LED/PWM controller",
+  "keywords": [
+    "PWM",
+    "LED",
+    "PCA9685",
+    "I2C"
+  ],
+  "author": "Chih-Wei Fang",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "^1.5.0"
+  }
+}
